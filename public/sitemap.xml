@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://griffur.ch/</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/a-propos-de-griffur</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/nos-services</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/nos-creations</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/notre-equipe</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/nous-contacter</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/politique-de-confidentialite</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>https://griffur.ch/mentions-legales</loc>
+  <lastmod>2023-04-13T18:40:59+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+</urlset>
